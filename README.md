@@ -1,0 +1,2 @@
+# jobcan_notifier_to_Chatwork
+ジョブカンの打刻をChatworkへ通知する Google Apps Script
